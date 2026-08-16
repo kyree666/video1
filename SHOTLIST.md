@@ -55,15 +55,15 @@ Legend: [x] done & committed · [ ] to generate
 - [x] `mopop.png` (Museum of Pop Culture — Gehry metal)
 - [x] `dicks_drivein.png` (Queen Anne, retro orange/white sign)
 - [x] `rainier_r.png` (giant red Rainier "R" sign)
-- [ ] `popsicle.png` (giant RED TWIN popsicle, no bite, two wooden sticks,
+- [x] `popsicle.png` (giant RED TWIN popsicle, no bite, two wooden sticks,
   4th & Blanchard, Belltown)
-- [ ] `stadiums_i5.png` (Lumen Field + T-Mobile Park lit from I-5 at night)
-- [ ] `light_rail_tunnel.png` (inside station tunnel / train)
-- [ ] `metro_bus.png` (city bus, wet street)
-- [ ] `kerry_park.png` (postcard skyline view)
-- [ ] `volunteer_park.png` (water tower / conservatory)
-- [ ] `green_lake.png` or `discovery_park.png` (calmer nature; daytime variety)
-- [ ] `glass_towers.png` (tall downtown towers, looking up)
+- [x] `stadiums_i5.png` (Lumen Field + T-Mobile Park lit from I-5 at night)
+- [x] `light_rail_tunnel.png` (inside station tunnel / train)
+- [x] `metro_bus.png` (city bus, wet street)
+- [x] `kerry_park.png` (postcard skyline view)
+- [x] `volunteer_park.png` (water tower / conservatory)
+- [x] `green_lake.png` (selected calmer nature / daytime variety)
+- [x] `glass_towers.png` (tall downtown towers, looking up)
 - [ ] `daytime_sunbreak.png` (non-rainy, warmer palette — variety)
 
 ## Existing repo assets to reuse
