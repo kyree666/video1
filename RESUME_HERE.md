@@ -14,7 +14,10 @@ Verse 2 and the outro.
 - The master song and dog-tags HERO clip were recovered locally from the backup
   zip into `assets_extracted/` (both remain ignored media files).
 - `SHOTLIST.md` is the source of truth for generated stills and what remains.
-- No render has been run in this session.
+- The recovered master audio and dog-tags HERO clip are extracted locally in
+  `assets_extracted/`.
+- The first full local assembly render completed successfully at
+  `render/Take_the_Streets_Back_YouTube_16x9.mp4` (3:34.71, 1280x720, H.264/AAC).
 
 ## Done so far (committed in this session)
 - PDG logo (`assets/pdg_logo.png` + `assets/pdg_logo_alpha.png`)
@@ -40,11 +43,13 @@ Verse 2 and the outro.
 - All committed generated stills are 16:9, watermarked with the committed PDG
   mark, and checked for the no-cops/no-cop-cars/no-uniforms rule. The Fremont
   Troll frame was cleaned to remove a generated car before watermarking.
-- `build_music_video.py` is present for the future render pass.
+- `build_music_video.py` now assembles the full still library, HERO clip, audio,
+  and PDG watermark in narrative order.
 
 ## Still to generate
 The only unchecked item is the optional `daytime_sunbreak.png` variety frame.
-The core shot list is otherwise complete. Render only when the user asks.
+The core shot list is otherwise complete. The current render is a review draft;
+replace or refine individual motion shots only if needed.
 
 ## Recover the song + hero clip after a fresh session
 The tracked backup is `video/TakeTheStreetsBack_project_backup.zip`:
