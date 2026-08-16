@@ -45,7 +45,7 @@ are git-ignored — see `.gitignore`.)
 | `images/` | Source stills (Space Needle, Great Wheel, plague-doctor motif, etc.) |
 | `placeholder_video/` | Packaged "skill" bundle for AI video generators + its source images/manifest |
 | `text/` | Lyrics, storyboard, prompt library, and project handoff notes |
-| `video/` | Render outputs (git-ignored) and a project backup zip |
+| `video/` | Render outputs and project backup archives (git-ignored — store backups externally / as release assets) |
 
 ## Documentation (`text/`)
 

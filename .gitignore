@@ -21,6 +21,9 @@ video/frames2/
 video/output/
 video/placeholder_preview.mp4
 
+# Large project backup archives (keep out of Git; store externally / as a release asset)
+video/*.zip
+
 # Python
 __pycache__/
 *.py[cod]
