@@ -53,7 +53,6 @@ Legend: [x] done & committed · [ ] to generate
 ## Seattle icons batch (user requests — new)
 - [x] `jimi_hendrix_statue.png` (Broadway, Capitol Hill)
 - [x] `mopop.png` (Museum of Pop Culture — Gehry metal)
-- [x] `shawn_kemp_cannabis.png` (Belltown, neon)
 - [x] `dicks_drivein.png` (Queen Anne, retro orange/white sign)
 - [x] `rainier_r.png` (giant red Rainier "R" sign)
 - [ ] `popsicle.png` (giant RED TWIN popsicle, no bite, two wooden sticks,

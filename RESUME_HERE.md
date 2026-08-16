@@ -32,8 +32,8 @@ Verse 2 and the outro.
 - Verse 2 / outro future-generation shots: `kids_crosswalk.png`,
   `kids_bus_stop.png`, `holding_hands.png`, and `kids_toward_dawn.png`
 - Bridge memorial insert: `memorial_flowers.png`
-- Seattle icon batch: Jimi Hendrix statue, MoPOP, Shawn Kemp's Cannabis,
-  Dick's Drive-In, and Rainier R
+- Seattle icon batch: Jimi Hendrix statue, MoPOP, Dick's Drive-In, and
+  Rainier R
 - All thirty generated stills are 16:9, watermarked with the committed PDG mark,
   and checked for the no-cops/no-cop-cars/no-uniforms rule. The Fremont Troll
   frame was cleaned to remove a generated car before watermarking.
