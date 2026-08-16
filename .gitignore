@@ -62,3 +62,7 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Session working dirs — keep generated assets IN git so they survive rollbacks
+!assets/
+!assets/stills/
