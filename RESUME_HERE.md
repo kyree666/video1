@@ -26,18 +26,23 @@ Verse 2 and the outro.
 - Atmosphere / landmark batch 1: Ballard Bridge, Central Library, alleyway,
   cemetery, Pike Place neon, Pioneer Square, Hammering Man, Fremont Troll,
   monorail, and Gas Works Park
-- All ten new stills are 16:9, watermarked with the committed PDG mark, and
-  checked for the no-cops/no-cop-cars/no-uniforms rule. The Fremont Troll frame
-  was cleaned to remove a generated car before watermarking.
+- Atmosphere / waterfront batch 2: skyline rain, ferry waterfront, Smith Tower,
+  Chinatown-ID gate, overpass, streetlight rain, empty bus stop, Capitol Hill,
+  and puddle ripples
+- First Verse 2 future-generation shot: `kids_crosswalk.png`, kids seen from
+  behind walking toward a school bus
+- All twenty generated stills are 16:9, watermarked with the committed PDG mark,
+  and checked for the no-cops/no-cop-cars/no-uniforms rule. The Fremont Troll
+  frame was cleaned to remove a generated car before watermarking.
 - `build_music_video.py` is present for the future render pass.
 
 ## Still to generate
-Continue with every unchecked item in `SHOTLIST.md`: skyline / waterfront and
-street atmosphere, the kids/future imagery for Verse 2 and the outro, the
-memorial insert, then the Seattle icon batch (Jimi Hendrix statue, MoPOP, Shawn
-Kemp's Cannabis, Dick's Drive-In, Rainier "R", the red twin popsicle, the
-stadiums from I-5, light rail tunnel, Metro bus, Kerry Park, Volunteer Park,
-Green Lake or Discovery Park, glass towers, and a warmer daytime sunbreak).
+The next unchecked item is `kids_bus_stop.png`; continue through the remaining
+kids/future shots for Verse 2 and the outro, the memorial insert, and then the
+Seattle icon batch (Jimi Hendrix statue, MoPOP, Shawn Kemp's Cannabis, Dick's
+Drive-In, Rainier "R", the red twin popsicle, the stadiums from I-5, light rail
+tunnel, Metro bus, Kerry Park, Volunteer Park, Green Lake or Discovery Park,
+glass towers, and a warmer daytime sunbreak).
 
 ## Recover the song + hero clip after a fresh session
 The tracked backup is `video/TakeTheStreetsBack_project_backup.zip`:

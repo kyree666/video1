@@ -30,18 +30,18 @@ Legend: [x] done & committed · [ ] to generate
 - [x] `fremont_troll.png` (cleaned; no generated car)
 - [x] `monorail.png`
 - [x] `gasworks.png` (Gas Works Park)
-- [ ] `skyline_rain.png`
-- [ ] `ferry_waterfront.png`
-- [ ] `smith_tower.png`
-- [ ] `id_gate.png` (Chinatown-ID gate)
-- [ ] `overpass.png`
-- [ ] `streetlight_rain.png`
-- [ ] `bus_stop_empty.png`
-- [ ] `capitol_hill.png`
-- [ ] `puddle_ripples.png`
+- [x] `skyline_rain.png`
+- [x] `ferry_waterfront.png`
+- [x] `smith_tower.png`
+- [x] `id_gate.png` (Chinatown-ID gate)
+- [x] `overpass.png`
+- [x] `streetlight_rain.png`
+- [x] `bus_stop_empty.png`
+- [x] `capitol_hill.png`
+- [x] `puddle_ripples.png`
 
 ## Kids / future generations (Verse 2 + outro)
-- [ ] `kids_crosswalk.png` (from behind, school bus ahead)
+- [x] `kids_crosswalk.png` (from behind, school bus ahead; Verse 2)
 - [ ] `kids_bus_stop.png`
 - [ ] `holding_hands.png` (adult + child, hands only)
 - [ ] `kids_toward_dawn.png` (walking toward sunrise — outro)
@@ -73,7 +73,9 @@ Legend: [x] done & committed · [ ] to generate
 - `assets_extracted/Take the Streets Back (perfect).mp3` (master audio)
 
 ## Notes
-- The generated batch is stored in `assets/stills/` and has the committed PDG
-  watermark composited bottom-right.
+- The generated batches are stored in `assets/stills/` and have the committed
+  PDG watermark composited bottom-right.
+- `kids_crosswalk.png` starts the kids/future visual language for Verse 2;
+  future kids shots should remain from behind or otherwise non-identifiable.
 - Variety is encouraged: not everything has to be night/rain/red-blue/Seattle.
 - Render only when the user asks; keep generating and committing until then.
