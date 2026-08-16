@@ -56,6 +56,11 @@ env/
 *.swo
 *~
 
+# Final assembly working directories and recovered media
+assets_extracted/
+build_clips/
+render/
+
 # OS
 .DS_Store
 Thumbs.db

@@ -70,7 +70,21 @@ python extract_this_version_lyrics_sample.py path/to/video.mp4 --start 0 --stop 
 
 ## Producing the final video
 
-The Python pipeline builds a *draft/placeholder* slideshow only. The finished music
-video is produced with external AI tools — see `text/readme3.md` for the exact
-Seedance prompts and recommended settings, and `text/PROJECT_HANDOFF.md` for the
-handoff checklist.
+The committed still library is ready for the local final-assembly pass. Recover the
+master audio and dog-tags HERO clip from the backup archive, install the assembly
+requirement, then run:
+
+```bash
+mkdir -p assets_extracted
+unzip -o -j video/TakeTheStreetsBack_project_backup.zip \
+  'Take the Streets Back (perfect).mp3' 'seattle_night_car.mp4' \
+  -d assets_extracted
+python build_music_video.py
+```
+
+The script keeps the artist booth shots in Verse 1, kids/future shots in Verse 2
+and the outro, inserts the recovered HERO clip, scales the timeline to the full
+master track, and overlays the PDG watermark. It writes the ignored final output
+to `render/Take_the_Streets_Back_YouTube_16x9.mp4`. The external Seedance prompt
+pack in `text/readme3.md` remains available for replacing any still with generated
+motion later.
