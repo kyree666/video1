@@ -1,4 +1,14 @@
+# One-time setup
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# Build pipeline
+python build.py all
 python prepare_skill_images_short.py
 python assemble_video.py
 python package_skill_zip.py
-python -m build_utils list_assets
+python build.py list_assets
+
+# Lyric OCR extraction (needs easyocr; pass the video path as an argument)
+python extract_this_version_lyrics_v2.py path/to/video.mp4 --out text/extracted.txt
