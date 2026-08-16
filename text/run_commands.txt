@@ -1,0 +1,4 @@
+python prepare_skill_images_short.py
+python assemble_video.py
+python package_skill_zip.py
+python -m build_utils list_assets
