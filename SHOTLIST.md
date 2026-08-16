@@ -42,20 +42,20 @@ Legend: [x] done & committed · [ ] to generate
 
 ## Kids / future generations (Verse 2 + outro)
 - [x] `kids_crosswalk.png` (from behind, school bus ahead; Verse 2)
-- [ ] `kids_bus_stop.png`
-- [ ] `holding_hands.png` (adult + child, hands only)
-- [ ] `kids_toward_dawn.png` (walking toward sunrise — outro)
-- [ ] `rainy_crosswalk.png` (empty crosswalk)
+- [x] `kids_bus_stop.png` (from behind, safe and non-identifiable)
+- [x] `holding_hands.png` (adult + child, hands only)
+- [x] `kids_toward_dawn.png` (walking toward sunrise — outro)
+- [x] `rainy_crosswalk.png` (empty crosswalk)
 
 ## Memorial (bridge section)
-- [ ] `memorial_flowers.png` (sidewalk memorial, unreadable photos)
+- [x] `memorial_flowers.png` (sidewalk memorial, unreadable photos)
 
 ## Seattle icons batch (user requests — new)
-- [ ] `jimi_hendrix_statue.png` (Broadway, Capitol Hill)
-- [ ] `mopop.png` (Museum of Pop Culture — Gehry metal)
-- [ ] `shawn_kemp_cannabis.png` (Belltown, neon)
-- [ ] `dicks_drivein.png` (Queen Anne, retro orange/white sign)
-- [ ] `rainier_r.png` (giant red Rainier "R" sign)
+- [x] `jimi_hendrix_statue.png` (Broadway, Capitol Hill)
+- [x] `mopop.png` (Museum of Pop Culture — Gehry metal)
+- [x] `shawn_kemp_cannabis.png` (Belltown, neon)
+- [x] `dicks_drivein.png` (Queen Anne, retro orange/white sign)
+- [x] `rainier_r.png` (giant red Rainier "R" sign)
 - [ ] `popsicle.png` (giant RED TWIN popsicle, no bite, two wooden sticks,
   4th & Blanchard, Belltown)
 - [ ] `stadiums_i5.png` (Lumen Field + T-Mobile Park lit from I-5 at night)
@@ -75,7 +75,9 @@ Legend: [x] done & committed · [ ] to generate
 ## Notes
 - The generated batches are stored in `assets/stills/` and have the committed
   PDG watermark composited bottom-right.
-- `kids_crosswalk.png` starts the kids/future visual language for Verse 2;
-  future kids shots should remain from behind or otherwise non-identifiable.
+- `kids_crosswalk.png`, `kids_bus_stop.png`, `holding_hands.png`, and
+  `kids_toward_dawn.png` establish the kids/future visual language for Verse 2
+  and the outro; children remain from behind, hands-only, or non-identifiable.
+- `memorial_flowers.png` is reserved for the bridge section.
 - Variety is encouraged: not everything has to be night/rain/red-blue/Seattle.
 - Render only when the user asks; keep generating and committing until then.
